@@ -1,0 +1,25 @@
+<Education>
+<heading>
+<Qualification>
+<SerialNumber> 1 </SerialNumber>
+<AcademicQualification> Bachelor Of Computer Science </AcademicQualification>
+<EducationalInstitute> University Of Wollong Dubai</EducationalInstitute>
+<Duration> 2021-Present </Duration>
+<AcademicResult> ND </AcademicResult>
+</Qualification>
+<Qualification>
+<SerialNumber> 2 </SerialNumber>
+<AcademicQualification> Senior year </AcademicQualification>
+<EducationalInstitute> C.R. Oasis Senior Secondary School</EducationalInstitute>
+<Duration> 2018-2019 </Duration>
+<AcademicResult> 74.4% </AcademicResult>
+</Qualification>
+<Qualification>
+<SerialNumber> 3 </SerialNumber>
+<AcademicQualification> Sophmore year </AcademicQualification>
+<EducationalInstitute> P.M.S Public School</EducationalInstitute>
+<Duration> 2016-2017 </Duration>
+<AcademicResult> 9.4 CGPA </AcademicResult>
+</Qualification>
+</heading>
+</Education>
